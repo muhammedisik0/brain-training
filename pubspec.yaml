@@ -1,0 +1,72 @@
+name: brain_training
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  flutter_svg: ^1.0.0
+  get_storage: ^2.0.3
+  card_swiper: ^2.0.4
+  x_message: ^0.1.0
+  audioplayers: ^1.1.1
+  firebase_core: ^2.4.0
+  firebase_auth: ^4.2.1
+  google_sign_in: ^5.4.2
+  font_awesome_flutter: ^10.3.0
+  cloud_firestore: ^4.2.0
+  function_tree: ^0.8.13
+  timer_count_down: ^2.2.2
+  auto_size_text: ^3.0.0
+  share_plus: ^6.3.4
+  url_launcher: ^6.1.10
+  launch_review: ^3.0.1
+  cached_network_image: ^3.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/backgrounds/
+    - assets/icons/
+    - assets/sounds/
+
+  fonts:
+    - family: BrunoAceSC
+      fonts:
+        - asset: assets/fonts/BrunoAceSC-Regular.ttf
+
+    - family: DarumadropOne
+      fonts:
+        - asset: assets/fonts/DarumadropOne-Regular.ttf
+
+    - family: Exo2
+      fonts:
+        - asset: assets/fonts/Exo2-VariableFont_wght.ttf
+
+    - family: PatrickHand
+      fonts:
+        - asset: assets/fonts/PatrickHand-Regular.ttf
+
+    - family: PressStart2P
+      fonts:
+        - asset: assets/fonts/PressStart2P-Regular.ttf
+    
+    

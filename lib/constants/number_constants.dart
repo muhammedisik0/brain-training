@@ -1,0 +1,3 @@
+class NumberConstants {
+  NumberConstants._();
+}

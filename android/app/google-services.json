@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158724712027",
+    "project_id": "brain-training-8e64c",
+    "storage_bucket": "brain-training-8e64c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158724712027:android:e9dda717713d73eed3017e",
+        "android_client_info": {
+          "package_name": "com.brainmax.braingames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158724712027-rl5nhke0as6h79ji5m1fmvbl58jdjtm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainmax.braingames",
+            "certificate_hash": "80405d62445982f857eec437d6b80fbddb7e6765"
+          }
+        },
+        {
+          "client_id": "158724712027-gtfr5keh4e70srla8d21gdjhvrf68nn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWomb9OCcDpgdont1wN2GfjvlklL7kl9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158724712027-gtfr5keh4e70srla8d21gdjhvrf68nn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
